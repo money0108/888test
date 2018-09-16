@@ -156,7 +156,7 @@ import Standard_Deviation
 
 app = Flask(__name__)
 
-line_bot_api = LineBotApi('pMPQoSuWr9gJ4bi2VaCJyP0+3o8rMOoltW6y/dBqIywHMEYkVhOjGflBGnHLqvA4080NRsgf/jzbYI/VjlJTl2H1Xc9ZXN7wBHLJH82E6uIo7jRQlqRMmQeQKoa17UguFpokXEMK2n3Q45q2oVGoLgdB04t89/1O/w1cDnyilFU=')
+line_bot_api = LineBotApi('yPz5v7f3XGdcsTCyme2hKXbu58fKDgEriFNPSo/NcMNoZPWVZEwYIOlQ2jqNQeXF080NRsgf/jzbYI/VjlJTl2H1Xc9ZXN7wBHLJH82E6uJsab+TuUAaT2G4TZtH5T+uWycR5QSotn6TQiy/ykra4wdB04t89/1O/w1cDnyilFU=')
 # 必須放上自己的Channel Secret
 handler = WebhookHandler('3bbbb90dbcad8693b66c7d61ff58ba6c')
 yourid='U6c8f2685a2918d7afbd819b12c15a848'
