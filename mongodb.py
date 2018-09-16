@@ -10,12 +10,12 @@ from pymongo import MongoClient
 import urllib.parse
 import datetime
 
-username = urllib.parse.quote_plus('你的帳號') 
-password = urllib.parse.quote_plus('你的密碼')
-host = '你的主機位置' #主機位置
-port = 'port號碼' #port號碼
-dbname='你的資料庫名稱'
-collection='你的資料庫名稱'
+username = urllib.parse.quote_plus('user123') 
+password = urllib.parse.quote_plus('nkfust123')
+host = 'ds159661.mlab.com' #主機位置
+port = '59661' #port號碼
+dbname='ds159661.mlab.com'
+collection='stock'
 
 ###############################################################################
 #                           LineBot股票機器人mongoDB#                            #
